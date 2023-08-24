@@ -1,8 +1,16 @@
-# React + Vite
+# Fundamentos React (Projeto do Curso Frontend Rocketseat)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto prático de ReactJS.
 
-Currently, two official plugins are available:
+Consiste em uma pagina de feedbacks nomeada pelos autores de Ignite Feed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Utilizando a biblioteca Vite e o template de projeto React.
+
+
+O que foi utilizado nesse projeto?:
+- ReactJS
+- JavaScrit
+- CSS
+- HTML
+- Vite
+- ESLint
